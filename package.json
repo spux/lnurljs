@@ -1,6 +1,6 @@
 {
   "name": "lnurljs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lnurl js library",
   "main": "index.js",
   "scripts": {
